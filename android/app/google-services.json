@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:20372759190:android:fb5d15d494319f050158b7",
+        "mobilesdk_app_id": "1::android:",
         "android_client_info": {
           "package_name": "com.example.qys"
         }
@@ -31,13 +31,13 @@
           }
         },
         {
-          "client_id": "20372759190-f2e31sj0im71nqd90vs794uj1sd8r50n.apps.googleusercontent.com",
+          "client_id": "-pps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBHXq9r_1dPXziZNDId748gFndYqSXGEvY"
+          "current_key": ""
         }
       ],
       "services": {
