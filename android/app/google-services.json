@@ -1,9 +1,9 @@
 {
   "project_info": {
-    "project_number": "20372759190",
-    "firebase_url": "https://qysoperaciones.firebaseio.com",
-    "project_id": "qysoperaciones",
-    "storage_bucket": "qysoperaciones.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
@@ -15,19 +15,19 @@
       },
       "oauth_client": [
         {
-          "client_id": "20372759190-6cucam38tm94erf4ntl4h7ujpp634n1o.apps.googleusercontent.com",
+          "client_id": "-.apps..com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.qys",
-            "certificate_hash": "74e60975f9f2329a4d48277bcfa9355188821eec"
+            "package_name": "",
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "20372759190-uvn22kp1rrvdsqnqddmrug0c96nt9fjk.apps.googleusercontent.com",
+          "client_id": "-.apps.",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.qys",
-            "certificate_hash": "abddd580303e084de6e0c954f825b2373702b3d3"
+            "package_name": "com.",
+            "certificate_hash": ""
           }
         },
         {
@@ -44,7 +44,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "20372759190-f2e31sj0im71nqd90vs794uj1sd8r50n.apps.googleusercontent.com",
+              "client_id": "gleusercontent.com",
               "client_type": 3
             }
           ]
